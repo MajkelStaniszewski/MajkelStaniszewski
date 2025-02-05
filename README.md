@@ -2,7 +2,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) 
+ ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black) 
  ![TIA Portal](https://img.shields.io/badge/-TIA%20Portal-00819F?logo=siemens&logoColor=white) 
  ![Triconex](https://img.shields.io/badge/-Triconex-FF5F00?logo=triconex&logoColor=white) 
@@ -14,4 +16,3 @@
  ![AutoCAD](https://img.shields.io/badge/-AutoCAD-AC2727?logo=autodesk&logoColor=white) 
  ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FFB000?logo=autodesk&logoColor=black) 
  ![Fanuc Robots](https://img.shields.io/badge/-Fanuc%20Robots-FFCC00?logo=fanuc&logoColor=black) 
-
